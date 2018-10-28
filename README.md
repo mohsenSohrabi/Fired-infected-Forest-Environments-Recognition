@@ -4,11 +4,10 @@
 ### In this project we have 3 classes:
 * Fired: There are lots of fired forest images here. In some of the pictures fire is obvious but in some other, the fire takes only a few parts of the picture. So that it is really hard to recognize fire in some samples. 
 ![some fired pictures ](https://drive.google.com/open?id=1ZozO6YYfYbVpegQ6uO-m_hmRBmYUq23E)
-
-* Infected: It includes pictures that there is some garbage accumulated in. Like the fired class, some of the samples are sophisticated to recognize.
 ___
+* Infected: It includes pictures that there is some garbage accumulated in. Like the fired class, some of the samples are sophisticated to recognize.
+
  ![some infected images](https://github.com/mohsenSohrabi/Fired_Infected_Envirnment_Recognition/blob/master/sample_images/infected_samples.JPG)
 * Clean: I includes a series of natural forest images.
-___
  ![some natural images](https://github.com/mohsenSohrabi/Fired_Infected_Envirnment_Recognition/blob/master/sample_images/clean_samples.jpg)
- 
+ ___
