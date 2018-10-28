@@ -1,5 +1,5 @@
 # Fired Infected Envirnment Recognition Using Keras
-**Note**: In order to run this project you should download dataset from [here](https://drive.google.com/file/d/1c1ADHs3uPMgQgoaAg36N--5-06FbFM23/view) and simply put it into "Dataset" folder. It is about 167MB and I can not put the file here directly to Dataset. 
+**Note**: In order to run this project you should download dataset from [here](https://drive.google.com/file/d/1c1ADHs3uPMgQgoaAg36N--5-06FbFM23/view) and simply put it into "Dataset" folder(It is about 167MB and I can not put the file here directly to Dataset directory). 
 
 ### In this project we have 3 classes:
 * Fired: There are lots of fired forest images here. In some of the pictures fire is obvious but in some other, the fire takes only a few parts of the picture. So that it is really hard to recognize fire in some samples. 
