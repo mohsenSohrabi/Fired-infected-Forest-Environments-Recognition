@@ -8,5 +8,5 @@
 * Infected: It includes pictures that there is some garbage accumulated in. Like the fired class, some of the samples are sophisticated to recognize. 
 ![some infected images](https://drive.google.com/open?id=1xp_K1KPja8LQHDwlHJoVyTOKcvs8dj2K)
 * Clean: I includes a series of natural forest images.
- ! [some natural images](https://drive.google.com/open?id=1NScbPY-jpV611tNSO1-E8zH_wOmvoDCE)
+ ! [some natural images](https://github.com/mohsenSohrabi/Fired_Infected_Envirnment_Recognition/blob/master/sample_images/clean_samples.jpg)
  
